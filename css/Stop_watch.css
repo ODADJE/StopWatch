@@ -1,0 +1,31 @@
+body{
+    background-color: orange;
+   margin-left: 50px;
+   text-align: center;
+   color: white;
+   align-content: center;
+}
+#time{
+    background-color : orange;
+    border : solid;
+    height : 48px;
+    font-size : 20px;
+    border: none;
+}
+
+button{
+    color: white;
+    background-color: orange;
+    width : 25%;
+    height : 36%;
+    font-size : 18px;
+    margin : 0px;
+    float : left;
+    border-radius: 5px;
+    border: solid white 1px;
+    margin-right: 20px;
+}
+#btns{
+  align-content: center;
+  margin-left: 170px;
+}
